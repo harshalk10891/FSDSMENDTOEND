@@ -3,4 +3,4 @@
 git init
 git add abc.txt
 
-git comit -m "this is my first comit"
+git commit -m "this is my first commit"
